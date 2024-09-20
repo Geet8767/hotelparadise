@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://example.com/background.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    color: white;
+}
+
+header {
+    background-color: rgba(0, 123, 255, 0.7);
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgba(0, 123, 255, 0.7);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
